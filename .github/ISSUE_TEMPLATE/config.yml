@@ -1,0 +1,13 @@
+#
+# This source file is part of the Stanford Spezi open-source project
+#
+# SPDX-FileCopyrightText: 2022 Stanford University and the project authors (see CONTRIBUTORS.md)
+#
+# SPDX-License-Identifier: MIT
+#
+
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions & Support
+    url: https://github.com/SimVascular/svFSIplus/discussions
+    about: We use GitHub Discussions for any discussions and support
