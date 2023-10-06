@@ -1,9 +1,6 @@
 #
-# This source file is part of the Stanford Spezi open-source project
-#
-# SPDX-FileCopyrightText: 2022 Stanford University and the project authors (see CONTRIBUTORS.md)
-#
-# SPDX-License-Identifier: MIT
+# Inspired by the Stanford Spezi open-source project
+# See https://github.com/StanfordSpezi/.github/tree/main/.github/ISSUE_TEMPLATE
 #
 
 blank_issues_enabled: false
