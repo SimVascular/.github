@@ -25,8 +25,6 @@ Your submissions MUST be published and conform to the license currently used in 
 
 ## Attributions
 
-We use the [REUSE Software Conventions](https://reuse.software) to structure our attributions and contributor lists.
-
 Each file MUST contain the header information with [the SimVascular license](https://github.com/mrp089/.github/blob/main/LICENSE.md).
 
 If your code is based on another source, you MUST add a reference to the original source code to the specific code (e.g., using a comment) and make sure that the license of the original source allows the usage under the license used in the project.

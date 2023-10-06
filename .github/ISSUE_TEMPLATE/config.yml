@@ -1,0 +1,10 @@
+#
+# Inspired by the Stanford Spezi open-source project
+# See https://github.com/StanfordSpezi/.github/tree/main/.github/ISSUE_TEMPLATE
+#
+
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions & Support
+    url: https://github.com/SimVascular/svFSIplus/discussions
+    about: We use GitHub Discussions for any discussions and support
