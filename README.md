@@ -1,0 +1,1 @@
+This repository contains all community standards for the SimVascular organization (e.g., issue templates, contributing guidelines, code of conduct). All repositories that don't define their own standards will default to the ones in here.
