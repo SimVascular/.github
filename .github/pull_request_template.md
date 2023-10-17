@@ -1,12 +1,7 @@
-<!-- 
- Inspired by the Stanford Spezi open-source project
- See https://github.com/StanfordSpezi/.github/tree/main/.github/ 
- -->
+<!-- Give your pull request (PR) a descriptive name -->
 
-# *Name of this Pull Request*
-
-## Current situation & Problem
-*Link any open issues or pull requests (PRs) related to this PR. Please ensure that all non-trivial PRs are first tracked and discussed in an existing GitHub issue or discussion.*
+## Current situation
+*Link any open issues or PRs related to this PR. Please ensure that all non-trivial PRs are first tracked and discussed in an existing GitHub issue or discussion.*
 
 
 ## Release Notes 
@@ -14,12 +9,14 @@
 
 
 ## Documentation
- <!-- todo: add documentation guide -->
-*Please ensure that you properly document any additions*
+ <!-- todo developers: add documentation guide -->
+*Please ensure that you properly document any additions.*
 
 
 ## Testing
-*Please ensure that the PR meets the testing requirements set by GitHub ACtions and that new functionality is appropriately tested.*
+*Please ensure that the PR meets the testing requirements set by GitHub Actions.*
+ <!-- todo developers: check for coverage in GitHub Actions -->
+*In addition, please ensure all modified and new code is covered by tests.*
 
 
 ## Code of Conduct & Contributing Guidelines 
